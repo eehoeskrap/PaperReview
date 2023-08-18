@@ -12,5 +12,5 @@
 - [LinkedIn]
 
 [Issue]:https://github.com/eehoeskrap/PaperReview/issues
-[Tech Blog]:https://github.com/eehoeskrap
+[Tech Blog]:https://eehoeskrap.tistory.com/
 [LinkedIn]:https://www.linkedin.com/in/seohee-park-516544143/
